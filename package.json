@@ -1,0 +1,22 @@
+{
+  "name": "atom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "node": "^14.15.5",
+    "node-cron": "^2.0.3",
+    "request": "^2.88.2"
+  }
+}
