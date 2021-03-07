@@ -10,7 +10,7 @@ app.get('/', (req, res) => { // get 메소드 일때,
 const {getPara} = require("./scrapping.js");
 const {getNotice01} = require("./scrapping0.js");
 const {getNotice02} = require("./scrapping1.js");
-const {getCompany} = require{"./scrap_company.js"};
+const {getCompany} = require("./scrap_company.js");
 
 getPara();
 getNotice01();
