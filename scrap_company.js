@@ -171,4 +171,4 @@ async function getCompany(){
 await browser.close();  //await connectDB.disconnect();
 }; module.exports ={getCompany};
 
-getCompany();
+
